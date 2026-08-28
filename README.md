@@ -5,7 +5,8 @@ An interactive Power BI dashboard designed to analyze retail sales performance, 
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](لقطة%20شاشة%202026-08-28%20040232.png)
+<img width="1657" height="933" alt="image" src="https://github.com/user-attachments/assets/209d59b1-5855-4c63-b772-ea92aa1b6614" />
+
 
 ---
 
